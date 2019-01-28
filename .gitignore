@@ -142,5 +142,10 @@ website/node_modules
 website/i18n/*
 !website/i18n/en.json
 
-.idea
-*.iml
+preprocessing/target
+preprocessing/*.class
+preprocessing/*.iml
+preprocessing/*.ipr
+preprocessing/*.iws
+preprocessing/.idea
+preprocessing/out
